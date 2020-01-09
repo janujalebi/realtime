@@ -1,0 +1,14 @@
+version: '3.0'
+
+services:
+
+ webserver:
+     image: tomcat
+     ports:
+      - "9090:8080"
+     volumes:
+      - "test1:/usr/local/tomcat"
+
+volumes:
+    test1:
+      

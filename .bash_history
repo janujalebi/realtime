@@ -95,3 +95,112 @@ sudo curl -L https://github.com/docker/compose/releases/download/1.18.0/docker-c
 docker-compose --version
 yum install docker-compose -y
 ls -alrt 
+yum install python-pip -y
+docker-compose -version
+chmod 777 /usr/local/bin/docker-compose
+docker-compose -version
+vi docker-compose.yml
+ll
+vi docker-compose.yml
+docker-compose congid
+docker-compose config
+docker ps -a
+docker images
+docker rmi -f $(docker images -aq)
+docker-compose up -d
+docker ps
+docker images
+docker ps
+docker exec -it ac0606b25fd0 bash
+vi docker-compose.yml 
+docker rmi -f $(docker images -aq)
+docker rm -f $ocker ps -aq)
+docker rm -f $(docker ps -aq)
+docker rmi -f $(docker images -aq)
+dcoker-compose config
+docker-compose config
+docker-compose up -d
+docker ps 
+docker exec -it c2038c37e39c bash 
+vi docker-compose.yml 
+docker volume ls
+vi docker-compose.yml 
+docker-compose config
+vi docker-compose.yml 
+docker-compose config
+vi docker-compose.yml 
+docker-compose config
+vi docker-compose.yml 
+docker-compose config
+vi docker-compose.yml 
+docker-compose config
+vi docker-compose.yml 
+docker-compose config
+vi docker-compose.yml 
+docker-compose config
+vi docker-compose.yml 
+docker-compose config
+docker rm -f $(docker ps -aq)
+docker rmi -f $(docker images -aq)
+docker-compose up -d
+docker volume ls
+cd /var/lib/docker/volumes/
+ll
+cd root_test1/
+ll
+cd _data/
+ls -alrt 
+cd
+yum install git -y
+git clone https://github.com/janujalebi/practise.git
+l s-alrt 
+ls -alrt 
+mkdir tomcat
+git add *
+git add .
+git commit -m 'new'
+git remote add https://github.com/janujalebi/practise.git
+git add remote https://github.com/janujalebi/practise.git
+git add origin https://github.com/janujalebi/practise.git
+git remote add origin https://github.com/janujalebi/practise.git
+git push origin master 
+git push origin master -f
+vi docker-compose.yml 
+vi docker-compose.yml 
+vi tomcat-user.xml
+vi Dockerfile 
+docker ps
+docker rm -f $(docker ps -aq)
+docker rmi -f $(docker images -aq)
+docker build -t aft .
+docker images
+docker run -dit --rm --name afty -p 9090:8080 aft
+docker ps
+vi context.xml
+vi Dockerfile 
+ll
+mv tomcat-user.xml tomcat-users.xml
+ll
+docker rm -f $(docker ps -aq)
+docker rmi -f $(docker images -aq)
+docker build -t aft .
+docker images
+docker run -dit --rm --name afty -p 9090:8080 aft
+docker ps
+docker exec -it 2faf08223b85 bash 
+vi Dockerfile 
+docker exec -it 2faf08223b85 bash 
+vi Dockerfile 
+docker rm -f $(docker ps -aq)
+docker rmi -f $(docker images -aq)
+dcoker build -t aftab .
+docker build -t aftab .
+docker images
+docker run -dit --rm --name afty -p 9090:8080 aftab
+docker ps
+docker exec -it a63e5a4f81e5 bash
+ll
+docker ps
+docker images
+cd /opt/maven/
+ls -alrt 
